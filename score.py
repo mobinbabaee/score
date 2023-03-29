@@ -41,4 +41,4 @@ while q6 > 0:
     print('-', end='')
     q6 -= 1
 print("]\n")
-input('Press Enter to exit.')
+input("Press Enter to exit.")
