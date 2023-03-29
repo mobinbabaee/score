@@ -1,4 +1,5 @@
 #!/bin/bash
+
 tput setaf 4; echo [All] [Wrong] [Empty]; tput sgr0
 read v1 v2 v3
 let v4=v1-v2-v3
