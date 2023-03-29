@@ -5,10 +5,12 @@ A simple script for calculating you score with getting amount off All, Wrong, an
 Overall, this script is a simple example of how the Bash scripting language can be used to create interactive programs that perform calculations and display results to the user.</p>
 <hr>
 <h2>Usage</h2>
-<p>for bash version:<br>
+<p><b>for bash version:</b><br><br>
 at first use: <code>chmod +x *</code><br>
 then: <code>./score</code><br>
-<br>for python version:<br>
+<br>how to install?:<br>
+try this as sudo: <code>cp score /usr/local/bin</code>, then you are able to use <code>score</code> in everywhere through your terminal.<br>
+<br><b>for python version:</b><br><br>
 at first use: <code>pip3 install colorama</code> or <code>pip install colorama</code><br>
-then: <code>python3 score.py</code> or <code>py score.py</code>
+then: <code>python3 score.py</code> or <code>py score.py</code></p>
 <hr>
